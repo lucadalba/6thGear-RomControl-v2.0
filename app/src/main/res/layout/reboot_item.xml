@@ -20,16 +20,13 @@
     android:layout_gravity="center"
     android:orientation="vertical">
 
-    <android.support.design.widget.FloatingActionButton
+    <ImageView
         android:id="@+id/rebootFab"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:layout_margin="@dimen/fab_margin"
-        android:src="@drawable/ic_reboot"
-        app:elevation="2dp"
-        app:fabSize="normal"
-        app:pressedTranslationZ="12dp"/>
+        android:src="@drawable/reboot1" />
 
     <TextView
         android:id="@+id/rebootText"
