@@ -19,8 +19,7 @@
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:orientation="vertical"
-    android:paddingLeft="5dp"
-    android:paddingRight="5dp"
+    android:padding="5dp"
     >
 
     <com.wubydax.romcontrol.v2.prefs.ColorPickerView
@@ -41,8 +40,8 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:gravity="left"
-            android:text="Press to apply"
+            android:gravity="start"
+            android:text="@string/press_color_to_apply"
             android:textAppearance="?android:attr/textAppearanceSmall" />
 
         <EditText

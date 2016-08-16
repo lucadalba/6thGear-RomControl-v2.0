@@ -304,8 +304,6 @@ public class ColorPickerPreference
         if (state != null) {
             mDialog.onRestoreInstanceState(state);
         }
-        // added by Anna Berkovitch on 16/06/2015 to set dialog bg according to theme
-        mDialog.getWindow().setBackgroundDrawableResource(R.drawable.inset_dialog_bg);
         mDialog.show();
 
     }
