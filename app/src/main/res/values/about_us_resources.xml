@@ -20,54 +20,54 @@
     <!--In this array you will put the icons for contact information,
     for example xda icon for your xda thread, site icon for your site, facebook icon and so on-->
     <array name="about_contact_us_drawables">
-        <item>@drawable/icon_2</item>
-        <item>@drawable/icon_1</item>
-        <item>@drawable/icon_3</item>
+        <item>@drawable/dxplogoicon</item>
+        <item>@drawable/dxplogoiconred</item>
+        <item>@drawable/romcontrol</item>
     </array>
 
     <!--In this array you will put the titles for your contact info items. Keep the order consistent between all 3 arrays-->
     <string-array name="about_contact_us_text">
-        <item>Facebook</item>
-        <item>Our Site</item>
-        <item>XDA</item>
+        <item>@string/dxp_thread_title</item>
+        <item>@string/dxp_page_title</item>
+        <item>@string/rc_thread_title</item>
     </string-array>
 
     <!--In this array you will put the titles for the URL strings that will open once a user clicked on the item-->
-    <string-array name="about_contact_us_links" translatable="false">
-        <item>https://www.facebook.com/</item>
-        <item>https://www.google.com/</item>
-        <item>http://forum.xda-developers.com/</item>
+    <string-array name="about_contact_us_links">
+        <item>@string/dxp_thread_link</item>
+        <item>@string/dxp_page_link</item>
+        <item>http://forum.xda-developers.com/android/general/source-code-6thgear-romcontrol-v2-devs-t3411916</item>
     </string-array>
 
 
 
     <!--Team info arrays-->
     <array name="about_team_drawables">
-        <item>@drawable/icon_5</item>
-        <item>@drawable/icon_6</item>
-        <item>@drawable/icon_1</item>
+        <item>@drawable/ld</item>
+        <item>@drawable/dg</item>
+        <item>@drawable/wb</item>
     </array>
     <string-array name="about_team_names">
-        <item>Master Yoda - wise and talented lead developer</item>
-        <item>Luke Skywalker - one handed theme master</item>
-        <item>Darth Vader - dark theme master</item>
+        <item>@string/lucadalba_info</item>
+        <item>@string/daxgirl_info</item>
+        <item>@string/wuby_info</item>
     </string-array>
     <string-array name="about_team_links" translatable="false">
-        <item>https://www.facebook.com/</item>
-        <item>https://www.google.com/</item>
-        <item>http://forum.xda-developers.com/</item>
+        <item>http://forum.xda-developers.com/member.php?u=7119432</item>
+        <item>http://forum.xda-developers.com/member.php?u=4714483</item>
+        <item>http://forum.xda-developers.com/member.php?u=5493353</item>
     </string-array>
 
 
 
     <!--Credits and thanks info arrays-->
     <array name="about_credits_drawables">
-        <item>@drawable/icon_1</item>
-        <item>@drawable/icon_3</item>
-        <item>@drawable/icon_4</item>
-        <item>@drawable/icon_2</item>
-        <item>@drawable/icon_6</item>
-        <item>@drawable/icon_5</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
     </array>
     <string-array name="about_credits_names">
         <item>Star Trek - for being ultimately better than Star Wars</item>

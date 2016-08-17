@@ -115,21 +115,15 @@ public class AboutActivity extends AppCompatActivity {
         String url = null;
         List contactIds = Arrays.asList(mContactUsIds);
         List teamIds = Arrays.asList(mTeamIds);
-        List creditsIds = Arrays.asList(mCreditsIds);
         if (contactIds.contains(id)) {
             linksList = Arrays.asList(getResources().getStringArray(R.array.about_contact_us_links));
             url = linksList.get(contactIds.indexOf(id));
         } else if (teamIds.contains(id)) {
             linksList = Arrays.asList(getResources().getStringArray(R.array.about_team_links));
             url = linksList.get(teamIds.indexOf(id));
-        } else if(creditsIds.contains(id)) {
-            linksList = Arrays.asList(getResources().getStringArray(R.array.about_credits_links));
-            url = linksList.get(creditsIds.indexOf(id));
         }
         if(url != null) {
             openUrl(url);
-        } else {
-            Toast.makeText(MyApp.getContext(), "Invalid URL", Toast.LENGTH_SHORT).show();
         }
     }
 

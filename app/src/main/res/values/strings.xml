@@ -62,6 +62,18 @@
     <string name="reboot_later_negative_button">later</string>
     <string name="reboot_now_dialog_button">reboot now</string>
     <string name="imminent_reboot_warning">Your device will reboot IMMEDIATELY upon script completion!!!</string>
+    <string name="useful_links">Useful Links</string>
+    <string name="our_team">Our Team</string>
+    <string name="credits_thanks">Credits and Thanks</string>
+    <string name="about_us_title">About DeoXPer and RomControl</string>
+    <string name="dxp_thread_title">XDA DeoXPer Thread</string>
+    <string name="dxp_page_title">G+ DeoXPer Page</string>
+    <string name="rc_thread_title">XDA RomControl Thread</string>
+    <string name="dxp_thread_link">http://forum.xda-developers.com/galaxy-s5/development/rom-deoxper-pure-mm-deodex-prerooted-t3384351</string>
+    <string name="dxp_page_link">https://plus.google.com/collection/Ati8gB</string>
+    <string name="lucadalba_info">lucadalba\nDeoXPer ROM Developer</string>
+    <string name="daxgirl_info">daxgirl\n6thGear RomControl Developer</string>
+    <string name="wuby_info">Wuby986\n6thGear RomControl Developer</string>
 
     <!--These strings are to set the default fragment to open for the first time the app launches-->
 </resources>

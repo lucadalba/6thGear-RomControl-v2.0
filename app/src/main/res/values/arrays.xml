@@ -44,8 +44,8 @@
         <item>2</item>
     </string-array>
     <array name="thumbnail_drawables">
-        <item>@drawable/icon_6</item>
-        <item>@drawable/icon_5</item>
+        <item>@drawable/dxplogoiconred</item>
+        <item>@drawable/dxplogoicon</item>
     </array>
 
     <string-array name="custom_bg_type_entries">

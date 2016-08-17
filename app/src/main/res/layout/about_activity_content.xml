@@ -46,14 +46,15 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="?colorPrimary"
+                    android:background="?colorAccent"
                     android:gravity="center_vertical"
-                    android:paddingBottom="3dp"
+                    android:paddingBottom="7dp"
                     android:paddingStart="16dp"
-                    android:paddingTop="3dp"
-                    android:text="Contact Us"
+                    android:paddingTop="7dp"
+                    android:text="@string/useful_links"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:textColor="@android:color/white"/>
+                    android:textColor="@android:color/white"
+                    android:textStyle="bold"/>
 
                 <LinearLayout
                     android:id="@+id/aboutContactUsContainer"
@@ -64,14 +65,15 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="?colorPrimary"
+                    android:background="?colorAccent"
                     android:gravity="center_vertical"
-                    android:paddingBottom="3dp"
+                    android:paddingBottom="7dp"
                     android:paddingStart="16dp"
-                    android:paddingTop="3dp"
-                    android:text="Our Team"
+                    android:paddingTop="7dp"
+                    android:text="@string/our_team"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:textColor="@android:color/white"/>
+                    android:textColor="@android:color/white"
+                    android:textStyle="bold"/>
 
                 <LinearLayout
                     android:id="@+id/aboutTeamContainer"
@@ -82,14 +84,15 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="?colorPrimary"
+                    android:background="?colorAccent"
                     android:gravity="center_vertical"
-                    android:paddingBottom="3dp"
+                    android:paddingBottom="7dp"
                     android:paddingStart="16dp"
-                    android:paddingTop="3dp"
-                    android:text="Credits and Thanks"
+                    android:paddingTop="7dp"
+                    android:text="@string/credits_thanks"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:textColor="@android:color/white"/>
+                    android:textColor="@android:color/white"
+                    android:textStyle="bold"/>
 
                 <LinearLayout
                     android:id="@+id/aboutCreditsContainer"
