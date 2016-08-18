@@ -392,7 +392,7 @@ public class Utils {
                     })
                     .create().show();
         } catch (PackageManager.NameNotFoundException e) {
-            Toast.makeText(getContext(), "App not installed", Toast.LENGTH_SHORT).show();
+            Toast.makeText(getContext(), context.getString(R.string.app_not_installed), Toast.LENGTH_SHORT).show();
         }
 
     }

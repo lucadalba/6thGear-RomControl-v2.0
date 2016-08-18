@@ -74,6 +74,13 @@
     <string name="lucadalba_info">lucadalba\nDeoXPer ROM Developer</string>
     <string name="daxgirl_info">daxgirl\n6thGear RomControl Developer</string>
     <string name="wuby_info">Wuby986\n6thGear RomControl Developer</string>
+    <string name="app_not_installed">App not installed</string>
+    <string name="confirm">confirm</string>
+    <string name="based_on">based on 6thGear RomControl</string>
+    <string name="light_theme">Light theme</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="backup_data">Backup data</string>
+    <string name="restore_data">Restore data</string>
 
     <!--These strings are to set the default fragment to open for the first time the app launches-->
 </resources>
