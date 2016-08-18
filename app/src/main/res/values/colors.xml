@@ -13,8 +13,8 @@
         You should have received a copy of the GNU General Public License
         along with this program.  If not, see <http://www.gnu.org/licenses/>.*/-->
 <resources>
-	<color name="colorPrimary">#0f0f3a</color>
-	<color name="colorPrimaryDark">#0c0c2e</color>
+	<color name="colorPrimary">#4300a7</color>
+	<color name="colorPrimaryDark">#340084</color>
 	<color name="colorAccent">#a80028</color>
 	<color name="darkBgColor">#0c0c0d</color>
 </resources>
