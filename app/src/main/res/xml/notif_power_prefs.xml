@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/power_menu_category">
+
+        <com.wubydax.romcontrol.v2.prefs.MyCheckBoxPreference
+            android:title="@string/soundmode_powermenu"
+            android:summaryOn="@string/showed"
+            android:summaryOff="@string/hidden"
+            android:key="soundmode_powermenu"
+            android:defaultValue="true" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
