@@ -90,7 +90,11 @@
     <string name="backup_data">Backup data</string>
     <string name="restore_data">Restore data</string>
 
+    <string name="screenshot_powermenu">Screenshot into power menu</string>
+    <string name="screenrec_powermenu">Screenrecorder into power menu</string>
+    <string name="flashlight_powermenu">Torch into power menu</string>
     <string name="soundmode_powermenu">Sound Bar into power menu</string>
+
     <string name="back_to_forceclose">Long press Back to FORCE CLOSE app</string>
 
     <!--These strings are to set the default fragment to open for the first time the app launches-->
