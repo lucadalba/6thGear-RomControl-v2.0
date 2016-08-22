@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory android:title="@string/notifications_category">
+
+        <com.wubydax.romcontrol.v2.prefs.MySeekBarPreference
+            android:title="@string/lock_notif_number"
+            android:key="lockscreen_notifications"
+            app:minValue="1"
+            app:maxValue="4"
+            android:defaultValue="4"
+            app:packageNameToKill="com.android.systemui"
+            app:isSilent="false" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

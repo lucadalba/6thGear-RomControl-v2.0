@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/general_volume_category">
+
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:title="@string/volume_warning"
+            android:summaryOn="@string/showed"
+            android:summaryOff="@string/disabled"
+            android:key="volume_warning"
+            android:defaultValue="false" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
