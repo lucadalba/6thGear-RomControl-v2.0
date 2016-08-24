@@ -44,11 +44,12 @@
     <string name="backup_file_prefix_date_format" translatable="false">dd-MM-yy_HH:mm</string>
     <string name="backup_file_suffix" translatable="false">_RCBackup</string>
     <string name="restore_complete_toast">Restore complete</string>
-    <string name="notif_power_prefs">Notif Panel - Power Menu</string>
+    <string name="notif_power_prefs">Notif - Recents - Power</string>
     <string name="buttons_prefs">Buttons mods</string>
     <string name="back_button_category">Back Button mods</string>
     <string name="notifications_category">Notifications mods</string>
     <string name="power_menu_category">Power Menu mods</string>
+    <string name="recents_category">Recent Apps Panel mods</string>
     <string name="systemui_prefs">SystemUI prefs</string>
     <string name="phone_prefs">Phone prefs</string>
     <string name="framework_prefs">Framework prefs</string>
@@ -96,12 +97,17 @@
 
 
 
-    <string name="lock_notif_number">Lockscreen notifications number</string>
+    <string name="googlebutton_recents">Google button into recents</string>
+    <string name="quicklaunch_recents">Quick App Launcher into recents</string>
 
     <string name="screenshot_powermenu">Screenshot into power menu</string>
     <string name="screenrec_powermenu">Screenrecorder into power menu</string>
     <string name="flashlight_powermenu">Torch into power menu</string>
     <string name="soundmode_powermenu">Sound Bar into power menu</string>
+
+
+
+    <string name="lock_notif_number">Lockscreen notifications number</string>
 
 
 
