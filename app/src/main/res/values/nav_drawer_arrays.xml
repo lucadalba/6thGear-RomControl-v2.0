@@ -39,7 +39,7 @@
     KEEP THE ORDER BETWEEN ALL YOUR ARRAYS-->
     <string-array name="nav_menu_prefs_titles">
         <item>@string/notif_power_prefs</item>
-        <item>@string/lockscreen_prefs</item>
+        <item>@string/power_recents_prefs</item>
         <item>@string/audio_prefs</item>
         <item>@string/buttons_prefs</item>
         <item>@string/systemui_prefs</item>
@@ -54,7 +54,7 @@
     THEY MUST BE PRECISE AND CASE SENSITIVE!!! DO NOT ADD .xml SUFFIX-->
     <string-array name="nav_menu_xml_file_names" translatable="false">
         <item>notif_power_prefs</item>
-        <item>lockscreen_prefs</item>
+        <item>power_recents_prefs</item>
         <item>audio_prefs</item>
         <item>buttons_prefs</item>
         <item>ui_prefs</item>

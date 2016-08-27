@@ -44,7 +44,7 @@
     <string name="backup_file_prefix_date_format" translatable="false">dd-MM-yy_HH:mm</string>
     <string name="backup_file_suffix" translatable="false">_RCBackup</string>
     <string name="restore_complete_toast">Restore complete</string>
-    <string name="notif_power_prefs">Notif - Recents - Power</string>
+    <string name="notif_power_prefs">Notifications - Notif Panel</string>
     <string name="buttons_prefs">Buttons mods</string>
     <string name="back_button_category">Back Button mods</string>
     <string name="notifications_category">Notifications mods</string>
@@ -53,16 +53,16 @@
     <string name="systemui_prefs">SystemUI prefs</string>
     <string name="phone_prefs">Phone prefs</string>
     <string name="framework_prefs">Framework prefs</string>
-    <string name="notification_panel_prefs">Notification panel prefs</string>
+    <string name="notifpanel_statusbar_category">Notification Panel and Status Bar mods</string>
     <string name="audio_prefs">Audio mods</string>
     <string name="general_volume_category">General Volume mods</string>
-    <string name="lockscreen_prefs">Lockscreen mods</string>
+    <string name="power_recents_prefs">Power Menu - Recents Panel</string>
     <string name="more_options">More options</string>
     <string name="set_theme">Set theme</string>
     <string name="backup_and_restore"><![CDATA[Backup & Restore]]></string>
     <string name="changelog">Changelog</string>
     <string name="about_us">About us</string>
-    <string name="showed">Showed</string>
+    <string name="showed">Shown</string>
     <string name="hidden">Hidden</string>
     <string name="enabled">Enabled</string>
     <string name="disabled">Disabled</string>
@@ -94,8 +94,45 @@
     <string name="dark_theme">Dark theme</string>
     <string name="backup_data">Backup data</string>
     <string name="restore_data">Restore data</string>
+    <string name="right">Right</string>
+    <string name="left">Left</string>
 
 
+
+    <string name="sfind_qconnect_notifpanel">SFind &amp; QConnect in notification panel</string>
+    <string name="brightness_notifpanel">Brightness slider in notification panel</string>
+    <string name="lock_notifpanel">Lock button into notification panel</string>
+    <string name="recents_notifpanel">Recents button into notification panel</string>
+    <string name="powermenu_notifpanel">PowerMenu button in notification panel</string>
+    <string name="powermenu_notifpanel_color">Notification panel Power button color</string>
+    <string name="upload">Show only Upload</string>
+    <string name="download">Show only Download</string>
+    <string name="upload_download">Show Download and Upload</string>
+    <string name="headsup_notifications">Heads Up notifications</string>
+    <string name="font_normal">Normal</string>
+    <string name="font_bold">Bold</string>
+    <string name="font_italic">Italic</string>
+    <string name="font_bold_italic">Bold Italic</string>
+    <string name="info_to_display">Information to display</string>
+    <string name="use_byte">Use Byte as unit</string>
+    <string name="bytes">Using Byte</string>
+    <string name="bit">Using bit</string>
+    <string name="net_indicator">Network Speed Indicator</string>
+    <string name="net_text">Network speed text</string>
+    <string name="net_arrows">Arrow indicators</string>
+    <string name="show_arrows">Show arrows</string>
+    <string name="arrows_position">Arrows position</string>
+    <string name="hide_low_traffic">Autohide with low traffic</string>
+    <string name="displaying_options">Dispalying options</string>
+    <string name="minspeed_tohide">Min speed for hiding indicator</string>
+    <string name="font_style">Font style</string>
+    <string name="text_size">Text size</string>
+    <string name="colors">Colors</string>
+    <string name="sel_separate">Separate colors for text and arrows</string>
+    <string name="col_separated">Text and arrows can be colored separately</string>
+    <string name="col_same">Text and arrows will get the same color</string>
+    <string name="speed_color">Speed text color</string>
+    <string name="arrows_color">Arrow indicators color</string>
 
     <string name="googlebutton_recents">Google button into recents</string>
     <string name="quicklaunch_recents">Quick App Launcher into recents</string>

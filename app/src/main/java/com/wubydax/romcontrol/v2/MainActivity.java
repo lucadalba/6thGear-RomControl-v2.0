@@ -83,6 +83,7 @@ public class MainActivity extends AppCompatActivity
         assert drawer != null;
         drawer.addDrawerListener(toggle);
         toggle.syncState();
+        drawer.openDrawer(GravityCompat.START);
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         assert navigationView != null;

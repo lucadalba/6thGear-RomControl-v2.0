@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory android:title="@string/power_menu_category">
+
+        <com.wubydax.romcontrol.v2.prefs.MyCheckBoxPreference
+            android:title="@string/flashlight_powermenu"
+            android:summaryOn="@string/showed"
+            android:summaryOff="@string/hidden"
+            android:key="flashlight_powermenu"
+            android:defaultValue="true" />
+
+        <com.wubydax.romcontrol.v2.prefs.MyCheckBoxPreference
+            android:title="@string/screenshot_powermenu"
+            android:summaryOn="@string/showed"
+            android:summaryOff="@string/hidden"
+            android:key="screenshot_powermenu"
+            android:defaultValue="true" />
+
+        <com.wubydax.romcontrol.v2.prefs.MyCheckBoxPreference
+            android:title="@string/screenrec_powermenu"
+            android:summaryOn="@string/showed"
+            android:summaryOff="@string/hidden"
+            android:key="screenrec_powermenu"
+            android:defaultValue="true" />
+
+        <com.wubydax.romcontrol.v2.prefs.MyCheckBoxPreference
+            android:title="@string/soundmode_powermenu"
+            android:summaryOn="@string/showed"
+            android:summaryOff="@string/hidden"
+            android:key="soundmode_powermenu"
+            android:defaultValue="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/recents_category">
+
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:title="@string/quicklaunch_recents"
+            android:summaryOn="@string/showed"
+            android:summaryOff="@string/hidden"
+            android:key="quicklaunch_recents"
+            android:defaultValue="true" />
+
+        <com.wubydax.romcontrol.v2.prefs.MyCheckBoxPreference
+            android:title="@string/googlebutton_recents"
+            android:summaryOn="@string/showed"
+            android:summaryOff="@string/hidden"
+            android:key="googlebutton_recents"
+            android:defaultValue="true" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

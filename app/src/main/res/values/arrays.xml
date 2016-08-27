@@ -84,4 +84,37 @@
         <item>1</item>
         <item>2</item>
     </string-array>
+
+    <string-array name="traffic_state_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="traffic_state_items">
+        <item>@string/disabled</item>
+        <item>@string/upload</item>
+        <item>@string/download</item>
+        <item>@string/upload_download</item>
+    </string-array>
+    <string-array name="arrow_position_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="arrow_position_entries">
+        <item>Right</item>
+        <item>Left</item>
+    </string-array>
+    <string-array name="traffic_style_entries">
+        <item>@string/font_normal</item>
+        <item>@string/font_bold</item>
+        <item>@string/font_italic</item>
+        <item>@string/font_bold_italic</item>
+    </string-array>
+    <string-array name="traffic_style_entry_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
 </resources>
