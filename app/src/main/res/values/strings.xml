@@ -134,7 +134,6 @@
     <string name="speed_color">Speed text color</string>
     <string name="arrows_color">Arrow indicators color</string>
 
-    <string name="googlebutton_recents">Google button into recents</string>
     <string name="quicklaunch_recents">Quick App Launcher into recents</string>
 
     <string name="screenshot_powermenu">Screenshot into power menu</string>

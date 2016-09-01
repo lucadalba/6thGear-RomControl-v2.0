@@ -43,13 +43,6 @@
             android:key="quicklaunch_recents"
             android:defaultValue="true" />
 
-        <com.wubydax.romcontrol.v2.prefs.MyCheckBoxPreference
-            android:title="@string/googlebutton_recents"
-            android:summaryOn="@string/showed"
-            android:summaryOff="@string/hidden"
-            android:key="googlebutton_recents"
-            android:defaultValue="true" />
-
     </PreferenceCategory>
 
 </PreferenceScreen>
