@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <PreferenceCategory android:title="@string/general_volume_category">
 
@@ -9,6 +10,14 @@
             android:summaryOff="@string/disabled"
             android:key="volume_warning"
             android:defaultValue="false" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/sound_equalizer_category">
+
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
+            android:summary="@string/viper_desc"
+            app:componentName="com.vipercn.viper4android_v2/com.vipercn.viper4android_v2.activity.ViPER4Android" />
 
     </PreferenceCategory>
 

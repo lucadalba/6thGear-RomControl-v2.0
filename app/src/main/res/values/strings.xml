@@ -50,12 +50,12 @@
     <string name="notifications_category">Notifications mods</string>
     <string name="power_menu_category">Power Menu mods</string>
     <string name="recents_category">Recent Apps Panel mods</string>
-    <string name="systemui_prefs">SystemUI prefs</string>
-    <string name="phone_prefs">Phone prefs</string>
-    <string name="framework_prefs">Framework prefs</string>
+    <string name="adviced_apps">Recommended Apps</string>
+    <string name="adviced_apps_category">Recommended Apps</string>
     <string name="notifpanel_statusbar_category">Notification Panel and Status Bar mods</string>
     <string name="audio_prefs">Audio mods</string>
     <string name="general_volume_category">General Volume mods</string>
+    <string name="sound_equalizer_category">Sound equalizer mods</string>
     <string name="power_recents_prefs">Power Menu - Recents Panel</string>
     <string name="more_options">More options</string>
     <string name="set_theme">Set theme</string>
@@ -99,6 +99,7 @@
 
 
 
+    <string name="lock_notif_number">Lockscreen notifications number</string>
     <string name="sfind_qconnect_notifpanel">SFind &amp; QConnect in notification panel</string>
     <string name="brightness_notifpanel">Brightness slider in notification panel</string>
     <string name="lock_notifpanel">Lock button into notification panel</string>
@@ -134,24 +135,23 @@
     <string name="speed_color">Speed text color</string>
     <string name="arrows_color">Arrow indicators color</string>
 
-    <string name="quicklaunch_recents">Quick App Launcher into recents</string>
 
+    <string name="quicklaunch_recents">Quick App Launcher into recents</string>
     <string name="screenshot_powermenu">Screenshot into power menu</string>
     <string name="screenrec_powermenu">Screenrecorder into power menu</string>
     <string name="flashlight_powermenu">Torch into power menu</string>
     <string name="soundmode_powermenu">Sound Bar into power menu</string>
 
 
-
-    <string name="lock_notif_number">Lockscreen notifications number</string>
-
-
-
     <string name="volume_warning">Volume warning with headphones</string>
 
 
-
     <string name="back_to_forceclose">Long press Back to FORCE CLOSE app</string>
+
+
+    <string name="deoxperinfo_desc">This app contains really useful information and links about the rom</string>
+    <string name="boefflaconfig_desc">This app will allow you to customize Boeffla Kernel parameters. Be CAREFULLY when you use it</string>
+    <string name="viper_desc">This app will allow you to improve your audio thanks to ViPER4Android mods</string>
 
     <!--These strings are to set the default fragment to open for the first time the app launches-->
 </resources>

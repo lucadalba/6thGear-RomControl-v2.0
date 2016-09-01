@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory android:title="@string/adviced_apps_category">
+
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
+            android:summary="@string/deoxperinfo_desc"
+            app:componentName="com.lucadalba.deoxperinfo/com.lucadalba.deoxperinfo.MainActivity" />
+
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
+            android:summary="@string/boefflaconfig_desc"
+            app:componentName="de.andip71.boeffla_config_v2/de.andip71.boeffla_config_v2.MainActivity" />
+
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference
+            android:summary="@string/viper_desc"
+            app:componentName="com.vipercn.viper4android_v2/com.vipercn.viper4android_v2.activity.ViPER4Android" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

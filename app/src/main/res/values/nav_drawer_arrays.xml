@@ -28,8 +28,6 @@
         <item>@drawable/ic_lock</item>
         <item>@drawable/ic_audio</item>
         <item>@drawable/ic_system_ui</item>
-        <item>@drawable/ic_system_ui</item>
-        <item>@drawable/ic_phone</item>
         <item>@drawable/ic_framework</item>
     </array>
 
@@ -42,9 +40,7 @@
         <item>@string/power_recents_prefs</item>
         <item>@string/audio_prefs</item>
         <item>@string/buttons_prefs</item>
-        <item>@string/systemui_prefs</item>
-        <item>@string/phone_prefs</item>
-        <item>@string/framework_prefs</item>
+        <item>@string/adviced_apps</item>
     </string-array>
 
 
@@ -57,8 +53,6 @@
         <item>power_recents_prefs</item>
         <item>audio_prefs</item>
         <item>buttons_prefs</item>
-        <item>ui_prefs</item>
-        <item>phone_prefs</item>
-        <item>framework_prefs</item>
+        <item>adviced_apps</item>
     </string-array>
 </resources>
