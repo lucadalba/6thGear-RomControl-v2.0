@@ -4,6 +4,7 @@ import android.app.FragmentManager;
 import android.app.ProgressDialog;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.content.pm.PackageManager;
 import android.content.res.TypedArray;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
@@ -158,6 +159,13 @@ public class MainActivity extends AppCompatActivity
                     break;
                 case R.id.about_us:
                     startActivity(new Intent(this, AboutActivity.class));
+                    break;
+                case R.id.ota_updates:
+                    Intent i = new Intent(Intent.ACTION_MAIN);
+                    PackageManager manager = getPackageManager();
+                    i = manager.getLaunchIntentForPackage("com.ota.updates");
+                    i.addCategory(Intent.CATEGORY_LAUNCHER);
+                    startActivity(i);
                     break;
                 case R.id.backup_restore:
                     mFragmentManager.beginTransaction().add(MyDialogFragment.newInstance(Constants.BACKUP_OR_RESTORE_DIALOG_REQUEST_CODE), "backup_restore").commit();

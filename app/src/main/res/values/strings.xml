@@ -33,7 +33,7 @@
     <string name="app_reboot_required_dialog_title">App reboot required</string>
     <string name="app_reboot_required_dialog_message">For this action to take effect it is required to restart %1$s.\n\nPress OK to restart now</string>
     <string name="theme_dialog_title">Choose theme</string>
-    <string name="changelog_version_title">ROM version: %1$s</string>
+    <string name="changelog_version_title">DeoXPer Pure MM 3.0 Changelog%1$s</string>
     <string name="backup_restore_dialog_title">Backup/Restore Rom Control system data</string>
     <string name="choose_backup_dialog_title">Please choose backup to restore</string>
     <string name="no_backup_dialog_title">No backup found on this device</string>
@@ -58,10 +58,10 @@
     <string name="sound_equalizer_category">Sound equalizer mods</string>
     <string name="power_recents_prefs">Power Menu - Recents Panel</string>
     <string name="more_options">More options</string>
-    <string name="set_theme">Set theme</string>
-    <string name="backup_and_restore"><![CDATA[Backup & Restore]]></string>
+    <string name="set_theme">Set app theme</string>
+    <string name="backup_and_restore"><![CDATA[Backup & Restore prefs]]></string>
     <string name="changelog">Changelog</string>
-    <string name="about_us">About us</string>
+    <string name="about_us">About Us</string>
     <string name="showed">Shown</string>
     <string name="hidden">Hidden</string>
     <string name="enabled">Enabled</string>
@@ -134,6 +134,14 @@
     <string name="col_same">Text and arrows will get the same color</string>
     <string name="speed_color">Speed text color</string>
     <string name="arrows_color">Arrow indicators color</string>
+    <string name="ota_updates">DeoXPer OTA Updates</string>
+
+
+
+    <!--This will be the dialog title.
+    Put your own rom version and name.
+    Have fun-->
+    <string name="rom_version_for_changelog"> </string>
 
 
     <string name="quicklaunch_recents">Quick App Launcher into recents</string>

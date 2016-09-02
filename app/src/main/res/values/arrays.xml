@@ -117,4 +117,62 @@
         <item>2</item>
         <item>3</item>
     </string-array>
+
+    <!--In the following array put your changelog items
+    Take as many lines as you need.
+    Add as many items as you want or delete some if those are too many
+    This order is how they will appear in the dialog
+    Make any order you want from top to bottom-->
+    <string-array name="changelog_items">
+        <item>Firmware base G900FXXU1CPF3 VD2</item>
+        <item>Rom Control v2 to customize a lot of mods</item>
+        <item>Boeffla ANYKernel v2.1 beta 4 + Boeffla Config v2.4.02 kernel manager</item>
+        <item>GPU Adreno Drivers updated at JUNE 2016</item>
+        <item>SuperSU 2.76 Stable SystemLess in COMPATIBILITY MODE</item>
+        <item>ViPER4Android FX 2.4.0.1 Audio Sound mod</item>
+        <item>PreRoot and preinstall problems should be completely solved</item>
+        <item>Xposed v86.2 SYSTEMLESS by topjohnwu</item>
+        <item>Xposed Installer Material Advanced by DVDandroid</item>
+        <item>Tweaks build.prop for: Better network - Better download - Better streaming - No call delay</item>
+        <item>BOOTANIMATION.ZIP support to install custom bootanimations</item>
+        <item>FIXED FINGERPRINT at BOOT bug</item>
+        <item>FIXED RESET TOGGLES AT REBOOT bug</item>
+        <item>FIXED BACK TO KILL mod that didn\'t really force close the app on back button long press</item>
+        <item>New torch toggle speeder and better than old one</item>
+        <item>CHANGEBLE BRIGHTNESS also with LOW BATTERY</item>
+        <item>MultiWindow supports ALL APPS</item>
+        <item>Toolbox can contain 12 ITEMS</item>
+        <item>Torch also with low battery</item>
+        <item>Selection to turn on/off PopUp notifications</item>
+        <item>Selection to turn on/off SFind/QConnect in notification panel</item>
+        <item>Lock screen button in notification panel</item>
+        <item>Reboot Menu button in notification panel</item>
+        <item>Recents App button in notification panel</item>
+        <item>Selection to turn on/off brightness bar into notification panel</item>
+        <item>Internet Speed Meter in notification bar</item>
+        <item>Quick App Launcher into Recent Apps panel</item>
+        <item>Selection to show from 1 to 4 notifications in lockscreen</item>
+        <item>Removed soundbar background into power menu</item>
+        <item>Removed extra white space into default app selector</item>
+        <item>Added ROM Info into About device settings with useful information and links about the rom</item>
+        <item>Updated DeoXPer Info app with revisioned button style, link to Rom Control, Boeffla Config, V4A and Changelog</item>
+        <item> </item>
+        <item> </item>
+        <item>Rom Control options: \"ON/OFF\" string means that you can choose to enable/disable the mod using RomControl</item>
+        <item> </item>
+        <item>SFinder and QuickConnect into notification panel (ON/OFF)</item>
+        <item>Brightness bar into notification panel (ON/OFF)</item>
+        <item>Lock screen button in notification panel (ON/OFF)</item>
+        <item>Reboot Menu button into notification panel (ON/OFF)</item>
+        <item>Recent Apps button into notification panel (ON/OFF)</item>
+        <item>Popup Notifications (ON/OFF)</item>
+        <item>Internet Speed meter into notification bar (ON/OFF and customizations)</item>
+        <item>Torch, Screenshot, Screenrecord and Sound Mode Selector into power menu (ON/OFF)</item>
+        <item>QuickLauncher into Recent App Panel (ON/OFF)</item>
+        <item>Lockscreen notification number (SELECTION)</item>
+        <item>High volume warning (ON/OFF)</item>
+        <item>Lonk press back to force close currrnt app (ON/OFF)</item>
+        <item>Links to useful apps as DeoXPer Info, Boeffla Config, ViPER4Android and OTA Updates</item>
+    </string-array>
+
 </resources>
