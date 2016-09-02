@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="changelog_items">
+        <item>Firmware base G900FXXU1CPF3 VD2</item>
+        <item>Rom Control v2 per personalizzare parecchie mods</item>
+        <item>Boeffla ANYKernel v2.1 beta 4 + Boeffla Config v2.4.02 kernel manager</item>
+        <item>GPU Adreno Drivers aggiornati a GIUGNO 2016</item>
+        <item>SuperSU 2.76 Stable SystemLess in MODALITÀ COMPATIBILITÀ</item>
+        <item>]ViPER4Android FX 2.4.0.1 Audio Sound mod</item>
+        <item>I problemi PreRoot e preinstall dovrebbero essere completamente risolti</item>
+        <item>Xposed v86.2 SYSTEMLESS by topjohnwu</item>
+        <item>Xposed Installer Material Advanced by DVDandroid</item>
+        <item>Tweaks build.prop per: Network migliore - Download migliore - Streaming migliore - Ritardo telefonate minore</item>
+        <item>Supporto BOOTANIMATION.ZIP per installare custom bootanimations</item>
+        <item>FIXATO bug FINGERPRINT al BOOT</item>
+        <item>FIXATO bug del RESET TOGGLES AL RIAVVIO</item>
+        <item>FIXATO bug pressione lunga del tasto intietro che non arrestava realmente l\'app corrente</item>
+        <item>Nuovo toggle torcia più veloce, migiore del vecchio</item>
+        <item>LUMINOSITÀ cambiabile anche con BATTERIA SCARICA</item>
+        <item>MultiWindow supporta TUTTE LE APP</item>
+        <item>Toolbox può contenere 12 ELEMENTI</item>
+        <item>Torcia anche con batteria scarica</item>
+        <item>Scelta attivazione/disattivazione per le notifiche popup</item>
+        <item>Scelta attivazione/disattivazione SFinder/QuickConnect in pannello notifiche</item>
+        <item>Tasto Blocco schermo in pannello notifiche</item>
+        <item>Tasto Menu Riavvio in pannello notifiche</item>
+        <item>Tasto App Recenti in pannello notifiche</item>
+        <item>Scelta attivazione/disattivazione selettore luminosità in pannello notifiche</item>
+        <item>Indicatore Velocità Internet nella barra notifiche</item>
+        <item>Piccolo App Launcher nel Pannello App Recenti</item>
+        <item>Scelta fino a 4 NOTIFICHE nella LOCKSCREEN</item>
+        <item>Rimosso colore background della soundbar in power menu</item>
+        <item>Rimosso spazio eccedente nel selettore app di default</item>
+        <item>Aggiunte ROM Info in Info sul dispositivo con informazioni e collegamenti utili per la rom</item>
+        <item>Aggiornata app DeoXPer Info con stile bottoni rivisitato, collegamento a Rom Control, Boeffla Config, V4A e Changelog</item>
+        <item> </item>
+        <item> </item>
+        <item>Opzioni Rom Control:</item>
+        <item>La dicitura ON/OFF vuol dire che tramite RomControl si può decidere se attivare i disattivare la mod</item>
+        <item> </item>
+        <item>SFinder e QuickConnect in pannello notifiche (ON/OFF)</item>
+        <item>Selettore luminosità in pannello notifiche (ON/OFF)</item>
+        <item>Tasto Blocco schermo in pannello notifiche (ON/OFF)</item>
+        <item>Tasto Menu Riavvio in pannello notifiche (ON/OFF)</item>
+        <item>Tasto App Recenti in pannello notifiche (ON/OFF)</item>
+        <item>Notifiche Popup (ON/OFF)</item>
+        <item>Indicatore Velocità Internet in barra notifiche (ON/OFF e personalizzazioni)</item>
+        <item>Torcia, Screenshot, Screenrecord e Modalità Suono in power menu (ON/OFF)</item>
+        <item>QuickLauncher in Pannello App Recenti (ON/OFF)</item>
+        <item>Numero notifiche lockscreen (SCELTA)</item>
+        <item>Avviso volume elevato cuffie (ON/OFF)</item>
+        <item>Pressione lunga tasto Indietro per arrestare forzatamente l\'app corrente (ON/OFF)</item>
+        <item>Collegamenti a app utili quali DeoXPer Info, Boeffla Config, ViPER4Android e OTA Updates</item>
+    </string-array>
+
+    <string-array name="about_credits_names">
+        <item>lucadalba (SVILUPPATORE della rom)</item>
+        <item>wuby &amp; daxgirl (ROM CONTROL, BootReceiver, DBeditor)</item>
+        <item>wuby (numerosi CONSIGLI)</item>
+        <item>poccy (tweak MULTIUTENZA)</item>
+        <item>Lord Boeffla (Boeffla KERNEL + Boeffla Config KERNEL MANAGER)</item>
+        <item>Chainfire (SuperSU)</item>
+        <item>svadev (DEODEXer tool)</item>
+        <item>rovo89 (XPOSED Framework e Xposed Installer)</item>
+        <item>topjohnwu (XPOSED SystemLess)</item>
+        <item>wanam (aggiunta supporto Samsung Xposes SystemLess e app base Firefds Kit)</item>
+        <item>DVDandroid (Xposed Installer Material Advanced)</item>
+        <item>Firefds (Modulo xposed FIREFDS KIT)</item>
+        <item>airidosas252 (informazione GPU drivers ADRENO aggiornati)</item>
+        <item>zhuhang (ViPER4Android)</item>
+        <item>7OH (Fix FINGERPRINT AL BOOT)</item>
+        <item>nunofgrd (TWEAKS BUILD.PROP)</item>
+        <item>Cyanogen Team (supporto BOOTANIMATION.ZIP)</item>
+        <item>Kamy (guida menu REBOOT AVANZATO)</item>
+        <item>daxgirl (guida TRADUZIONE menu REBOOT avanzato, indicatore VELOCITÀ INTERNET, tasto REBOOT MENU in PANNELLO NOTIFICHE, prima guida TOOLBOX 12 APPS)</item>
+        <item>asc1977 (guida tasti BLOCCO schermo e app RECENTI in PANNELLO NOTIFICHE)</item>
+        <item>sagitt67 &amp; sheard (guida SCREENSHOT, SCREENRECORD e TORCIA in POWER MENU)</item>
+        <item>tdunham (guida SOUND MODE in POWER MENU, scelta notifiche POPUP, scelta SFIND/QCONNECT in pannello notifiche)</item>
+        <item>OvrDriVE (rimozione background soundbar in powermenu, prima guida BACK to KILL)</item>
+        <item>Carotix &amp; aljee77 (QuickLauncer in App Recenti)</item>
+        <item>grzegorz354 (guida restore tasti SOLO UNA VOLTA \ SEMPRE)</item>
+        <item>nguyentankiet (guida RIMOZIONE AVVISO VOLUME elevato)</item>
+        <item>ikrom (prima guida incremento numero NOTIFICHE in LOCKSCREEN)</item>
+        <item>jobnik &amp; edzamber (CAMERA e FLASH a BATTERIA SCARSA)</item>
+        <item>ambasadii &amp; edzamber (ROM info in Info sul dispositivo e prima guida APERTURA APPS da Impostazioni)</item>
+        <item>The Sickness (stringa RIMOZIONE KNOX)</item>
+        <item>Crussader (guida rimozione NOTIFICA SD)</item>
+        <item>MattBooth (app e sistema di update OTA)</item>
+        <item>iBotPeaches (APKTOOL per modificare apk)</item>
+        <item>_alexndr (MODEM e BOOTLOADER 6.0.1)</item>
+        <item>emanuelexx (mi ha dato l\'idea e INCORAGGIATO), e anche molto clarkkk</item>
+    </string-array>
+
+</resources>

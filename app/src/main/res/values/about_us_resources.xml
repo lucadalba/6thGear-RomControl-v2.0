@@ -12,7 +12,7 @@
 
         You should have received a copy of the GNU General Public License
         along with this program.  If not, see <http://www.gnu.org/licenses/>.*/-->
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
 
     <!--Contact info arrays-->
@@ -22,7 +22,7 @@
     <array name="about_contact_us_drawables">
         <item>@drawable/dxplogoicon</item>
         <item>@drawable/dxplogoiconred</item>
-        <item>@string/rc_icon</item>
+        <item>@drawable/rc_icon</item>
     </array>
 
     <!--In this array you will put the titles for your contact info items. Keep the order consistent between all 3 arrays-->

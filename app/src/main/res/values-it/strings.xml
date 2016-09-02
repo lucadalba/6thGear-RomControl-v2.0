@@ -1,0 +1,154 @@
+<!--/*      Created by Roberto Mariani and Anna Berkovitch, 2015-2016-->
+    <!--This program is free software: you can redistribute it and/or modify-->
+    <!--it under the terms of the GNU General Public License as published by-->
+    <!--the Free Software Foundation, either version 3 of the License, or-->
+    <!--(at your option) any later version.-->
+
+    <!--This program is distributed in the hope that it will be useful,-->
+    <!--but WITHOUT ANY WARRANTY; without even the implied warranty of-->
+    <!--MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the-->
+    <!--GNU General Public License for more details.-->
+
+    <!--You should have received a copy of the GNU General Public License-->
+    <!--along with this program.  If not, see <http://www.gnu.org/licenses/>.*/-->
+<resources>
+
+    <string name="navigation_drawer_open">Apri menu laterale</string>
+    <string name="navigation_drawer_close">Chiudi menu laterale</string>
+
+    <string name="dialog_color_picker">Scegi un colore</string>
+    <string name="press_color_to_apply">Premi per applicare</string>
+    <string name="root_progress_dialog_title">Ottenimento permessi di root</string>
+    <string name="root_progress_dialog_message">Attendere …</string>
+    <string name="no_su_dialog_title">Permessi di root non ottenuti</string>
+    <string name="no_su_dialog_message">Impossibile ottenere i permessi di root\n\nMolte funzioni di quest\'app possono essere usate senza accesso root. Comunque, potresti incontrare problemi eseguendo script o riavviando da quest\'app.\n\nConsigliamo vivamente di consentire i permessi di root al prossimo avvio dell\'app o impostarli manualmente dall\'app SuperSU</string>
+    <string name="no_su_dialog_dismiss_button_text">OK</string>
+    <string name="command_executed_success_toast">Eseguito correttamente</string>
+    <string name="root_tools_exception_toast">File non trovato o accesso root negato</string>
+    <string name="reboot_menu">Menu riavvio</string>
+    <string name="reboot_device_text">Riavvia</string>
+    <string name="reboot_recovery_text">Riavvia in Recovery</string>
+    <string name="reboot_ui_text">Riavvia SystemUI</string>
+    <string name="app_reboot_required_dialog_title">Riavvio app necessario</string>
+    <string name="app_reboot_required_dialog_message">Per completare questa modifica è necessario riavviare l\'app %1$s.\n\nPremi OK per riavviarla adesso</string>
+    <string name="theme_dialog_title">Scegli tema</string>
+    <string name="backup_restore_dialog_title">Backup/Ripristino delle preferenze Rom Control</string>
+    <string name="choose_backup_dialog_title">Scegli il backup da ripristinare</string>
+    <string name="no_backup_dialog_title">Nessun backup trovato sul dispositivo</string>
+    <string name="no_backup_dialog_message">Vuoi creare un nuovo backup adesso?</string>
+    <string name="restore_confirm_dialog_title">Per favore conferma di voler ripristinare il backup</string>
+    <string name="restore_confirm_message">Hai scelto di ripristinare le preferenze dal precenente Rom Control.\n\n<b>Quest\'operazione cambierà le preferenze delle mods della rom basandosi su quelle memorizzate nel backup\n\n<font fgcolor="red">NON PROCEDERE se NON SEI SICURO</font></b>\n\nRom Control verrà chiuso e riaperto con le nuove preferenze. In base al numero delle preferenze da ripristinare, può volerci più o meno tempo.\n\nPremi \"CONFERMA\" per procedere o \"ANNULLA\" per uscire</string>
+    <string name="backup_complete_toast">Backup completato correttamente. Il backup si trova in:\n%1$s</string>
+    <string name="restore_complete_toast">Ripristino completato</string>
+    <string name="notif_power_prefs">Notifiche - Pannello Notif</string>
+    <string name="buttons_prefs">Tasti hardware</string>
+    <string name="back_button_category">Mods Tasto Indietro</string>
+    <string name="notifications_category">Mods Notifiche</string>
+    <string name="power_menu_category">Mods Power Menu</string>
+    <string name="recents_category">Mods pannello App Recenti</string>
+    <string name="adviced_apps">App consigliate</string>
+    <string name="adviced_apps_category">App consigliate</string>
+    <string name="notifpanel_statusbar_category">Mods Barra e Pannello Notifiche</string>
+    <string name="audio_prefs">Audio mods</string>
+    <string name="general_volume_category">Mods generali Volume</string>
+    <string name="sound_equalizer_category">Mods Equalizzatore Suono</string>
+    <string name="power_recents_prefs">Power Menu - App Recenti</string>
+    <string name="more_options">Più opzioni</string>
+    <string name="set_theme">Tema app</string>
+    <string name="backup_and_restore"><![CDATA[Backup & Ripristino]]></string>
+    <string name="changelog">Changelog</string>
+    <string name="about_us">Info</string>
+    <string name="showed">Mostrato</string>
+    <string name="hidden">Nascosto</string>
+    <string name="enabled">Abilitato</string>
+    <string name="disabled">Disabilitato</string>
+    <string name="confirm_script_dialog_message">"Sei sicuro di voler eseguire lo script %1$s?"</string>
+    <string name="run_script_confirm_dialog_title">Conferma richiesta</string>
+    <string name="run_script_confirm_dialog_positive_button">Esegui</string>
+    <string name="find_app">Cerca App</string>
+    <string name="reboot_required_dialog_title">Riavvio dispositivo necessario</string>
+    <string name="reboot_required_dialog_message">Per completare la modifica è necessario un riavvio del telefono. Vuoi riavviare adesso?</string>
+    <string name="reboot_later_negative_button">Riavvia dopo</string>
+    <string name="reboot_now_dialog_button">Riavvia adesso</string>
+    <string name="imminent_reboot_warning">Il dispositivo sarà riavviato IMMEDIATAMNTE dopo l\'esecuzione dello script</string>
+    <string name="useful_links">Link utili</string>
+    <string name="our_team">Sviluppatori</string>
+    <string name="credits_thanks">Ringraziamenti</string>
+    <string name="dxp_thread_title">Thread XDA DeoXPer</string>
+    <string name="dxp_page_title">Pagina G+ DeoXPer</string>
+    <string name="rc_thread_title">Thread Androidiani DeoXPer</string>
+    <string name="trd_thread_link">http://www.androidiani.com/forum/modding-samsung-galaxy-s5/509663-rom-6-0-1-deoxper-pure-mm-deodex-prerooted-xposed-per-s5-g900f.html</string>
+    <string name="dxp_page_link">https://plus.google.com/collection/0UV2gB</string>
+    <string name="lucadalba_info">lucadalba\nSviluppatore DeoXPer ROM</string>
+    <string name="daxgirl_info">daxgirl\nSviluppatrice 6thGear RomControl</string>
+    <string name="wuby_info">Wuby986\nSviluppatore 6thGear RomControl</string>
+    <string name="app_not_installed">App non installata</string>
+    <string name="confirm">Conferma</string>
+    <string name="based_on">basato su 6thGear RomControl</string>
+    <string name="light_theme">Tema chiaro</string>
+    <string name="dark_theme">Tema scuro</string>
+    <string name="backup_data">Backup preferenze</string>
+    <string name="restore_data">Ripristino preferenze</string>
+    <string name="right">Destra</string>
+    <string name="left">Sinistra</string>
+
+
+
+    <string name="lock_notif_number">Numero notifiche nella Lockscreen</string>
+    <string name="sfind_qconnect_notifpanel">SFind &amp; QConnect in pannello notifiche</string>
+    <string name="brightness_notifpanel">Barra luminosità in pannello notifiche</string>
+    <string name="lock_notifpanel">Tasto Lock in pannello notifiche</string>
+    <string name="recents_notifpanel">Tasto App Recenti in pannello notifiche</string>
+    <string name="powermenu_notifpanel">Tasto PowerMenu in pannello notifiche</string>
+    <string name="powermenu_notifpanel_color">Colore tasto Power in pannello notifiche</string>
+    <string name="upload">Mostra solo Upload</string>
+    <string name="download">Mostra solo Download</string>
+    <string name="upload_download">Mostra Download e Upload</string>
+    <string name="headsup_notifications">Notifiche PopUp</string>
+    <string name="font_normal">Normale</string>
+    <string name="font_bold">Grassetto</string>
+    <string name="font_italic">Corsivo</string>
+    <string name="font_bold_italic">Grassetto e corsivo</string>
+    <string name="info_to_display">Informazioni da mostrare</string>
+    <string name="use_byte">Usa il Byte come unità</string>
+    <string name="bytes">Unità: Byte</string>
+    <string name="bit">Unità: bit</string>
+    <string name="net_indicator">Indicatore Velocità Internet</string>
+    <string name="net_text">Testo Velocità</string>
+    <string name="net_arrows">Frecce indicatrici</string>
+    <string name="show_arrows">Mostra frecce</string>
+    <string name="arrows_position">Posizione frecce</string>
+    <string name="hide_low_traffic">Nascondi a velocità bassa</string>
+    <string name="displaying_options">Opzioni visibilità</string>
+    <string name="minspeed_tohide">Velocità minima per nascondere indicatore</string>
+    <string name="font_style">Stile carattere</string>
+    <string name="text_size">Dimensione testo</string>
+    <string name="colors">Colori</string>
+    <string name="sel_separate">Usa colori differenti per testo e frecce</string>
+    <string name="col_separated">Testo e frecce avranno colori differenti</string>
+    <string name="col_same">Testo e frecce avranno lo stesso colore</string>
+    <string name="speed_color">Colore testo</string>
+    <string name="arrows_color">Colore frecce</string>
+    <string name="ota_updates">Aggiornamenti OTA DeoXPer</string>
+
+
+
+    <string name="quicklaunch_recents">Quick App Launcher in App Recenti</string>
+    <string name="screenshot_powermenu">Screenshot in power menu</string>
+    <string name="screenrec_powermenu">Screenrecorder in power menu</string>
+    <string name="flashlight_powermenu">Torcia in power menu</string>
+    <string name="soundmode_powermenu">Modalià Suono in power menu</string>
+
+
+    <string name="volume_warning">Avviso Volume elevato con cuffie</string>
+
+
+    <string name="back_to_forceclose">Premi lungo BACK x ARRESTARE app</string>
+
+
+    <string name="deoxperinfo_desc">Quest\'app contiene informazioni e collegamenti ad applicazioni molto utili per la rom</string>
+    <string name="boefflaconfig_desc">Quest\'app consente di modificare i parametri di Boeffla Kernel. Sii PRUDENTE quando la usi</string>
+    <string name="viper_desc">Quest\'app consente di migliorare l\'audio del dispositivo grazie a ViPER4Android</string>
+
+    <!--These strings are to set the default fragment to open for the first time the app launches-->
+</resources>

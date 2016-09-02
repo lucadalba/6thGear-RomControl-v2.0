@@ -46,4 +46,6 @@
 
     <integer name="default_theme">0</integer>
 
+    <drawable name="rc_icon">@drawable/romcontrol</drawable>
+
 </resources>

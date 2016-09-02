@@ -11,7 +11,7 @@
 
     <!--You should have received a copy of the GNU General Public License-->
     <!--along with this program.  If not, see <http://www.gnu.org/licenses/>.*/-->
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string name="app_name">DeoXPer RomControl</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -59,7 +59,7 @@
     <string name="power_recents_prefs">Power Menu - Recents Panel</string>
     <string name="more_options">More options</string>
     <string name="set_theme">Set app theme</string>
-    <string name="backup_and_restore"><![CDATA[Backup & Restore prefs]]></string>
+    <string name="backup_and_restore"><![CDATA[Backup & Restore]]></string>
     <string name="changelog">Changelog</string>
     <string name="about_us">About Us</string>
     <string name="showed">Shown</string>
@@ -96,7 +96,6 @@
     <string name="restore_data">Restore data</string>
     <string name="right">Right</string>
     <string name="left">Left</string>
-    <string name="rc_icon">@drawable/romcontrol</string>
 
 
 
