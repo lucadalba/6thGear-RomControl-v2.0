@@ -175,4 +175,42 @@
         <item>Links to useful apps as DeoXPer Info, Boeffla Config, ViPER4Android and OTA Updates</item>
     </string-array>
 
+    <string-array name="about_credits_names">
+        <item>lucadalba (ROM DEVELOPER)</item>
+        <item>Wuby986 and daxgirl (ROM CONTROL, BootReceiver, DBeditor)</item>
+        <item>Wuby986 (lot of ADVICES)</item>
+        <item>poccy (MULTIUSER tweak)</item>
+        <item>Lord Boeffla (Boeffla KERNEL + Boeffla Config KERNEL MANAGER)</item>
+        <item>Chainfire (SuperSU)</item>
+        <item>svadev (DEODEXer tool)</item>
+        <item>rovo89 (XPOSED Framework and Xposed Installer)</item>
+        <item>topjohnwu (XPOSED SystemLess)</item>
+        <item>wanam (SAMSUNG SUPPORT into XPOSED SystemLess and base app for Firefds Kit)</item>
+        <item>DVDandroid (Xposed Installer Material Advanced)</item>
+        <item>Firefds (Xposed module FIREFDS KIT)</item>
+        <item>airidosas252 (updated Adreno GPU DRIVERS notice)</item>
+        <item>zhuhang (ViPER4Android)</item>
+        <item>7OH (Fix FINGERPRINT AT BOOT)</item>
+        <item>nunofgrd (BUILD.PROP tweaks)</item>
+        <item>Cyanogen Team (BOOTANIMATION.ZIP support)</item>
+        <item>Kamy (ADVANCED REBOOT menu guide)</item>
+        <item>daxgirl (advanced REBOOT menu TRANSLATION guide, INTERNET SPEED METER, REBOOT MENU button into NOTIFICATION PANEL, TOOLBOX 12 APPS)</item>
+        <item>asc1977 (SCREEN LOCK and RECENT APPS buttons into NOTIFICATION PANEL)</item>
+        <item>sagitt67 &amp; sheard (SCREENSHOT, SCREENRECORD and TORCH in POWER MENU guide)</item>
+        <item>tdunham (SOUND MODE in POWER MENU guide, POPUP notifications selection, SFIND/QCONNECT into notification panel selection)</item>
+        <item>OvrDriVE (removing powermenu soundmode background, BACK to KILL first guide)</item>
+        <item>Carotix &amp; ale77 (QuickLauncer in Recent Apps)</item>
+        <item>grzegorz354 (restore ONLY ONCE/ALWAYS buttons guide)</item>
+        <item>nguyentankiet (removing high VOLUME WARNING guide)</item>
+        <item>ikrom (increase LOCKSCREEN NOTIFICATION first guide)</item>
+        <item>jobnik &amp; edzamber (CAMERA and FLASH also with LOW BATTERY)</item>
+        <item>ambasadii &amp; edzamber (ROM info in About device settings and opening apps from settings first guide)</item>
+        <item>The Sickness (REMOVING KNOX string)</item>
+        <item>Crussader (SD CARD NOTIFICATION guide)</item>
+        <item>MattBooth (OTA Updates app and method)</item>
+        <item>iBotPeaches (APKTOOL to edit apk files)</item>
+        <item>_alexndr (MM 6.0.1 MODEM and BOOTLOADER)</item>
+        <item>emanuelexx (gives me the IDEA and ENCOURAGED me), as also clarkkk and now @dragobert89</item>
+    </string-array>
+
 </resources>

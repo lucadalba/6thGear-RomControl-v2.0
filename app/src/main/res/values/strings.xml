@@ -82,7 +82,7 @@
     <string name="dxp_thread_title">XDA DeoXPer Thread</string>
     <string name="dxp_page_title">G+ DeoXPer Page</string>
     <string name="rc_thread_title">XDA RomControl Thread</string>
-    <string name="dxp_thread_link">http://forum.xda-developers.com/galaxy-s5/development/rom-deoxper-pure-mm-deodex-prerooted-t3384351</string>
+    <string name="trd_thread_link">http://forum.xda-developers.com/android/general/source-code-6thgear-romcontrol-v2-devs-t3411916</string>
     <string name="dxp_page_link">https://plus.google.com/collection/Ati8gB</string>
     <string name="lucadalba_info">lucadalba\nDeoXPer ROM Developer</string>
     <string name="daxgirl_info">daxgirl\n6thGear RomControl Developer</string>
@@ -96,6 +96,7 @@
     <string name="restore_data">Restore data</string>
     <string name="right">Right</string>
     <string name="left">Left</string>
+    <string name="rc_icon">@drawable/romcontrol</string>
 
 
 

@@ -22,7 +22,7 @@
     <array name="about_contact_us_drawables">
         <item>@drawable/dxplogoicon</item>
         <item>@drawable/dxplogoiconred</item>
-        <item>@drawable/romcontrol</item>
+        <item>@string/rc_icon</item>
     </array>
 
     <!--In this array you will put the titles for your contact info items. Keep the order consistent between all 3 arrays-->
@@ -34,9 +34,9 @@
 
     <!--In this array you will put the titles for the URL strings that will open once a user clicked on the item-->
     <string-array name="about_contact_us_links">
-        <item>@string/dxp_thread_link</item>
+        <item>http://forum.xda-developers.com/galaxy-s5/development/rom-deoxper-pure-mm-deodex-prerooted-t3384351</item>
         <item>@string/dxp_page_link</item>
-        <item>http://forum.xda-developers.com/android/general/source-code-6thgear-romcontrol-v2-devs-t3411916</item>
+        <item>@string/trd_thread_link</item>
     </string-array>
 
 
@@ -68,21 +68,72 @@
         <item>@drawable/thumbsup</item>
         <item>@drawable/thumbsup</item>
         <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
+        <item>@drawable/thumbsup</item>
     </array>
-    <string-array name="about_credits_names">
-        <item>Star Trek - for being ultimately better than Star Wars</item>
-        <item>Jean-Luc Picard - for making us crave hot earl-grey tea even in the middle of the summer</item>
-        <item>Data - for running on the best rom. Google, we still are waiting for THAT android version</item>
-        <item>Janeway - for being a normal person and drinking black coffee</item>
-        <item>Q - for reminding us that you can live forever and still look great</item>
-        <item>Worf - for teaching us to love Klingons. It was NOT easy</item>
-    </string-array>
+
     <string-array name="about_credits_links" translatable="false">
         <item>https://www.facebook.com/</item>
         <item>https://www.google.com/</item>
         <item>http://forum.xda-developers.com/</item>
         <item>https://www.facebook.com/</item>
         <item>https://www.google.com/</item>
+        <item>http://forum.xda-developers.com/</item>
+        <item>http://forum.xda-developers.com/</item>
+        <item>https://www.facebook.com/</item>
+        <item>https://www.google.com/</item>
+        <item>http://forum.xda-developers.com/</item>
+        <item>https://www.facebook.com/</item>
+        <item>https://www.google.com/</item>
+        <item>http://forum.xda-developers.com/</item>
+        <item>http://forum.xda-developers.com/</item>
+        <item>https://www.facebook.com/</item>
+        <item>https://www.google.com/</item>
+        <item>http://forum.xda-developers.com/</item>
+        <item>https://www.facebook.com/</item>
+        <item>https://www.google.com/</item>
+        <item>http://forum.xda-developers.com/</item>
+        <item>http://forum.xda-developers.com/</item>
+        <item>https://www.facebook.com/</item>
+        <item>https://www.google.com/</item>
+        <item>http://forum.xda-developers.com/</item>
+        <item>https://www.facebook.com/</item>
+        <item>https://www.google.com/</item>
+        <item>http://forum.xda-developers.com/</item>
+        <item>http://forum.xda-developers.com/</item>
+        <item>https://www.facebook.com/</item>
+        <item>https://www.google.com/</item>
+        <item>http://forum.xda-developers.com/</item>
+        <item>https://www.facebook.com/</item>
+        <item>https://www.google.com/</item>
+        <item>http://forum.xda-developers.com/</item>
         <item>http://forum.xda-developers.com/</item>
     </string-array>
 </resources>
